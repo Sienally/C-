@@ -1,7 +1,9 @@
 # C-
-大学生入门C语言实践项目
+Introductory C language practice program for college students
 
-本人对C语言以及数据结构理解的并不是非常的深刻，因此希望靠实操一个项目来提升自己
 
-··如果你也是和我一样的初级选手，不妨阅读我的代码，并在此之上与我一起完善它（虽然我写的很烂就是了......）
-··如果你是在看的大佬，也希望能提出宝贵的经验，对不足之处提出质疑，让我在面对挫折时成长（这对我很重要！！！）
+I don't have a very deep understanding of C language and data structures, so I hope to improve myself by practicing a project
+
+
+·· If you're a beginner like me, read my code and work with me to refine it on top of it (although I write it badly...... ）  
+·· If you are a big guy who is watching, I also hope to provide valuable experience, question my shortcomings, and let me grow in the face of setbacks (this is important to me!! ）
