@@ -1,5 +1,5 @@
 # C-
-Introductory C language practice program for college students
+大学生入门 C 语言练习项目
 
 
 I don't have a very deep understanding of C language and data structures, so I hope to improve myself by practicing a project
